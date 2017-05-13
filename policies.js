@@ -67,6 +67,7 @@ module.exports = {
 		],
 
 		"imgSrc": [
+			"https://www.google-analytics.com",
 			"https://*.googleapis.com",
 			"https://*.g.doubleclick.net",
 			"https://www.google.co.in",
